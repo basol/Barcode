@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Barcode</string>
+    <string name="scan">Scan</string>
+    <string name="title_activity_db">DBActivity</string>
+</resources>

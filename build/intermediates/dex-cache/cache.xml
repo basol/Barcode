@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\AndroidWorks\Barcode\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="F:\AndroidWorks\Barcode\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_56fa5609223f8b5ab92a1ae8723ae620051fadd5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidWorks\Barcode\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="F:\AndroidWorks\Barcode\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_95434309d3cc5b0f23205b31c38660f1f456d0ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidWorks\Barcode\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="F:\AndroidWorks\Barcode\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.3.1_225c9eb2e46ea28a686e89824158b9d93b018614.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidWorks\Barcode\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="F:\AndroidWorks\Barcode\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_b2f82502859d70977890ae74ba9b74eb80f7a399.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidWorks\Barcode\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\AndroidWorks\Barcode\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_8053d61353d6d5dff400fc7aef9d2864bad48f51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidWorks\Barcode\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="F:\AndroidWorks\Barcode\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_9cfe4dd56f16acdfeba29cffa166018eece3256a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidWorks\Barcode\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="F:\AndroidWorks\Barcode\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_0cccfdb79782a3f998efbfbd6c9035b6b0c3b37e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidWorks\Barcode\app\libs\httpclient-4.5.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="d1577ae15f01ef5438c5afc62162457c00a34713">
+        <dex dex="F:\AndroidWorks\Barcode\app\build\intermediates\pre-dexed\debug\httpclient-4.5.3_697379a1030af84030c6e75a9962aaa3299c325b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidWorks\Barcode\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="F:\AndroidWorks\Barcode\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_d604ae5f0f0c721462e3e7018e228be1bb774534.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dvl_d\.android\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="F:\AndroidWorks\Barcode\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_a343659d81f5e16538444cb03f8b5ef6c04e5e52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidWorks\Barcode\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="F:\AndroidWorks\Barcode\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.3.1_624cdd748284f4b6fc0af36ed427c0c6fd62eb94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidWorks\Barcode\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="F:\AndroidWorks\Barcode\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.3.1_0d199b7df5f785b15af067001877c644128cfde6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidWorks\Barcode\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="F:\AndroidWorks\Barcode\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_5b3c83b308644a51e50f46fa743ea274231f6575.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidWorks\Barcode\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="F:\AndroidWorks\Barcode\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_b23b449849d16e1cc267820d170d124aca547b20.jar" />
+    </item>
+
+</items>
